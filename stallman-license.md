@@ -8,9 +8,13 @@ The Stallman License is licensed under the terms of The Stallman License.
 
 2. "his descendants" are defined as biological or adoptive children of GNU RMS, the heirs of GNU RMS in any fashion, any organisms made using genetic material from GNU RMS, any intelligences, artificial or otherwise, made using a brain state of GNU RMS as a template, and/or any entities claiming to be the descendant of GNU RMS.
 
+3. "CopyDown" is defined as the practice of stripping a work of all attributions and licenses and re-distributing it with or without new attributions and/or licenses.  
+For amusement purposes only, refer to http://uncyclopedia.wikia.com/wiki/Copyright#Copydown
+
 ## Terms
 
 1. The licensed work may not be used by GNU RMS or his descendants.
+
 2. Modified versions of the licensed work may be used without restrictions (CopyDown).
 
 ## Exceptions
