@@ -1,6 +1,6 @@
-# The Bugs License.
+# The Bugs License
 
-The Bugs License is in the public domain, because nothign else seems suitable.
+The Bugs License is in the public domain, because nothing else seems suitable.
 
 ## Definitions
 
