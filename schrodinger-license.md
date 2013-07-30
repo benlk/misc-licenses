@@ -23,3 +23,5 @@ The Schrödinger License is licensed under the terms of The Schrödinger License
 ## Exceptions
 
 1. The Schrödinger License does not apply if the observer is a Schrödinger's Cat currently being observed in a Schrödinger's Box experiment.
+
+2. The Schrödinger License does not apply to itself when The Schrödinger License is the object of discussion. 
