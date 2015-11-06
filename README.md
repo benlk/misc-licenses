@@ -22,6 +22,7 @@ The canonical URL for this collection of licenses is https://github.com/benlk/mi
 - [EXT JS License](http://www.exttld.com/index.php?content=terms): Meat!
 - [a music license](http://www.codeforge.com/read/126664/setdpi.h__html): Listen to the music.
 - [The Death and Repudiation License]9https://github.com/indeyets/syck/blob/master/COPYING): No use by living persons allowed.
+- [The JSLint license exception](http://dev.hasenj.org/post/3272592502/ibm-and-its-minions): IBM may be evil.
 
 # Licensing.
 
