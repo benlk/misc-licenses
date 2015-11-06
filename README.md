@@ -16,7 +16,12 @@ The canonical URL for this collection of licenses is https://github.com/benlk/mi
 
 - [The JSON.org license](http://www.json.org/license.html): May not be used for evil.
 - [Beerware license](https://en.wikipedia.org/wiki/Beerware#License): Buy the publisher a drink.
-- [Don't Ask Me About It License](https://github.com/nslater/DAMAIL)
+- [Don't Ask Me About It License](https://github.com/nslater/DAMAIL): Don't contact the author.
+- [The Chicken Dance License v 0.2](https://github.com/supertunaman/cdl/blob/master/COPYING): Distribute the source code with derivative projects.
+- [No problem bugroff license](http://tunes.org/legalese/bugroff.html): Very permissive.
+- [EXT JS License](http://www.exttld.com/index.php?content=terms): Meat!
+- [a music license](http://www.codeforge.com/read/126664/setdpi.h__html): Listen to the music.
+- [The Death and Repudiation License]9https://github.com/indeyets/syck/blob/master/COPYING): No use by living persons allowed.
 
 # Licensing.
 
