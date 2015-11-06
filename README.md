@@ -10,6 +10,7 @@ The canonical URL for this collection of licenses is https://github.com/benlk/mi
 - [The Anyone But Stallman License](./stallman-license.md): No exceptions.
 	- Historical note: This license is of separate construction from @kasm's "[Anyone But Richard M Stallman](https://github.com/landondyer/kasm/blob/master/LICENSE)" license.
 	- Contributors include @marchtemp
+- [The Mephistopheles License](./mephistopheles-license.md): If you are worried about losing your soul...
 
 # Other neat licenses
 
