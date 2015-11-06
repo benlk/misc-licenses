@@ -11,6 +11,12 @@ The canonical URL for this collection of licenses is https://github.com/benlk/mi
 	- Historical note: This license is of separate construction from @kasm's "[Anyone But Richard M Stallman](https://github.com/landondyer/kasm/blob/master/LICENSE)" license.
 	- Contributors include @marchtemp
 
+# Other neat licenses
+
+- [The JSON.org license](http://www.json.org/license.html): May not be used for evil.
+- [Beerware license](https://en.wikipedia.org/wiki/Beerware#License): Buy the publisher a drink.
+- [Don't Ask Me About It License](https://github.com/nslater/DAMAIL)
+
 # Licensing.
 
 The individual licenses contained within this repository are licensed under their respecitve terms.
