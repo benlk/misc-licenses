@@ -23,6 +23,7 @@ The canonical URL for this collection of licenses is https://github.com/benlk/mi
 - [a music license](http://www.codeforge.com/read/126664/setdpi.h__html): Listen to the music.
 - [The Death and Repudiation License]9https://github.com/indeyets/syck/blob/master/COPYING): No use by living persons allowed.
 - [The JSLint license exception](http://dev.hasenj.org/post/3272592502/ibm-and-its-minions): IBM may be evil.
+- [The Alcohol license clause](http://club.myce.com/f59/strange-license-agreement-alcohol-writer-software-55692/): doesn't really have anything to do with alcohol.
 
 # Licensing.
 
