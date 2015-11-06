@@ -1,10 +1,12 @@
 # The Fight Club License
 
+Copyright 2013 Benjamin Lancaster Keith
+
 1. You do not talk about the FIGHT CLUB LICENSE.
 
 2. You DO NOT talk about the FIGHT CLUB LICENSE.
 
-3. If someone says "stop" or goes limp, taps out the project is over.
+3. If someone says "stop" or goes limp &mdash;  or taps out &mdash; the project is over.
 
 4. Only two developers to a project.
 

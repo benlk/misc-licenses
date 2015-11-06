@@ -1,4 +1,6 @@
-# The Schrödinger License r2
+# The Schrödinger License r3
+
+Copyright 2013-2015 Benjamin Lancaster Keith
 
 The Schrödinger License is licensed under the terms of The Schrödinger License. 
 
@@ -12,11 +14,11 @@ The Schrödinger License is licensed under the terms of The Schrödinger License
 
 ## Terms
 
-1. The licensed material may not be observed. 
+1. The licensed material may not be observed.
 
 2. The licensed material may not simultaneously be observed and not observed.
 
-3. The licensed material must simultaneously be observed and not observed. 
+3. The licensed material must simultaneously be observed and not observed.
 
 4. Observing the licensed material will require the observer to license all material under The Schrödinger License.
 
@@ -24,9 +26,11 @@ The Schrödinger License is licensed under the terms of The Schrödinger License
 
 1. The Schrödinger License does not apply if the observer is a Schrödinger's Cat currently being observed in a Schrödinger's Box experiment.
 
-2. The Schrödinger License does not apply to itself when The Schrödinger License is the object of discussion. 
+2. The Schrödinger License does not apply to itself when The Schrödinger License is the object of discussion.
 
 ## Revisions.
+
+r3. Added Copyright message. If you can find a way to modify the Schrodinger License without breaking the license, you have the Schrodinger License's owner's permission to do so.
 
 r2. Added Exception 2. The Schrödinger License can now be discussed and linked to for discussion without applying the license terms to The Schrödinger License, when The Schrödinger License is the subject of the discussion.
 
