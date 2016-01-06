@@ -1,6 +1,6 @@
 # The Schrödinger License r3
 
-Copyright 2013-2015 Benjamin Lancaster Keith
+Copyright 2013-2016 Benjamin Lancaster Keith
 
 The Schrödinger License is licensed under the terms of The Schrödinger License. 
 
