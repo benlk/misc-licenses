@@ -1,6 +1,8 @@
 # The Anyone But Stallman License (ABSL)
 
-The Stallman License is licensed under the terms of The Stallman License.
+The Anyone But Stallman License may be referred to as the ABSL.
+
+The ABSL is licensed under the terms of The ABSL.
 
 ## Definitions
 
