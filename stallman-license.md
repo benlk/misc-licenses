@@ -8,7 +8,7 @@ The ABSL is licensed under the terms of The ABSL.
 
 1. "GNU RMS" is defined as the person, commonly known as Richard Matthew Stallman, responsible for the development and writing of the GNU General Public License versions 2 and 3 and the founding of the Free Software Foundation. 
 
-2. "his descendants" are defined as biological or adoptive children of GNU RMS, the heirs of GNU RMS in any fashion, any organisms made using genetic material from GNU RMS, any intelligences, artificial or otherwise, made using a brain state of GNU RMS as a template, and/or any entities claiming to be the descendant of GNU RMS.
+2. "his descendants" are defined as biological or adoptive children of GNU RMS, the heirs of GNU RMS in any fashion, any organisms made using genetic material from GNU RMS, any intelligences (artificial or otherwise) made using a brain state of GNU RMS as a template, any entities claiming to be the descendant of GNU RMS, any persons having a title which includes "Stallman" in its designation and/or any person whose voluntary or involuntary role is to mimic GNU RMS.
 
 3. "CopyDown" is defined as the practice of stripping a work of all attributions and licenses and re-distributing it with or without new attributions and/or licenses.  
 For amusement purposes only, refer to http://uncyclopedia.wikia.com/wiki/Copyright#Copydown
