@@ -24,6 +24,8 @@ The canonical URL for this collection of licenses is https://github.com/benlk/mi
 - [The Death and Repudiation License](https://github.com/indeyets/syck/blob/master/COPYING): No use by living persons allowed.
 - [The JSLint license exception](http://dev.hasenj.org/post/3272592502/ibm-and-its-minions): IBM may be evil.
 - [The Alcohol license clause](http://club.myce.com/f59/strange-license-agreement-alcohol-writer-software-55692/): doesn't really have anything to do with alcohol.
+- [Solipsistic Public License](https://raw.githubusercontent.com/matildah/SPL/fb35894f14be41ffd78018ae150e9da1cf6d4a75/LICENSE)
+- [Tumbolia Publice License](https://raw.githubusercontent.com/joshleaves/licenjs/4174e046c920acf066bfe9cd14d833210490c8b8/lib/template-tumbolia.txt)
 
 # Licensing.
 
