@@ -28,12 +28,16 @@ The Schrödinger License is licensed under the terms of The Schrödinger License
 
 2. The Schrödinger License does not apply to itself when The Schrödinger License is the object of discussion.
 
-## Revisions.
+## Revisions
 
-r3. Added Copyright message. If you can find a way to modify the Schrodinger License without breaking the license, you have the Schrodinger License's owner's permission to do so.
+r3: Added Copyright message. If you can find a way to modify the Schrödinger License without breaking the license, you have the Schrödinger License's owner's permission to do so.
 
-r2. Added Exception 2. The Schrödinger License can now be discussed and linked to for discussion without applying the license terms to The Schrödinger License, when The Schrödinger License is the subject of the discussion.
+r2: Added Exception 2. The Schrödinger License can now be discussed and linked to for discussion without applying the license terms to The Schrödinger License, when The Schrödinger License is the subject of the discussion.
 
 r1: Added Exception 1.
 
 r0: Initial release.
+
+## Historical note
+
+Because the Schrödinger License r0 was released without the exception added in r2, everything in the light cone of commit https://github.com/benlk/misc-licenses/commit/0bbee5aff743e531e34bc101d133de8a748de874 is subject to r0 of the Schrödinger License. This means you.
