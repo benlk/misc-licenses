@@ -10,11 +10,11 @@ The canonical URL for this collection of licenses is https://github.com/benlk/mi
 - [The Anyone But Stallman License](./stallman-license.md): No exceptions.
 	- Historical note: This license is of separate construction from @kasm's "[Anyone But Richard M Stallman](https://github.com/landondyer/kasm/blob/master/LICENSE)" license.
 	- Contributors include @marchtemp
-- [The Mephistopheles License](./mephistopheles-license.md): If you are worried about losing your soul...
+- [The Mephistopheles License](./mephistopheles-license.md): If you are worried about losing your soul....
 
 # Other neat licenses
 
-May include joke licenses.
+May include joke licenses. In no particular order. Links not guaranteed to work.
 
 - [Artistic License](https://en.wikipedia.org/wiki/Artistic_License): A serious license, not copyleft, kinda like CC-BY
 - [The JSON.org license](http://www.json.org/license.html): May not be used for evil.
@@ -46,12 +46,13 @@ May include joke licenses.
 - [Offendo General Pain In The Ass License](https://awoo.space/@typhlosion/1433157): You must have a way for people to acquire your source, but it must be more difficult than the way you acquired the source.
 	- [Alternative Variable Chain Public License](https://icosahedron.website/users/shel/updates/76814): Anyone using this must use it for noncommercial, but forks may be used for commercial, but granchdhild forks cannot be commercial, etc.
 - [Poe's Law Public License](https://icosahedron.website/users/shel/updates/76825): Derivatives must be licensed using a joke license.
+- [Good Luck With That Public License](https://github.com/me-shaon/GLWTPL) is even better than DAMAIL; it requires leaving no trace of the original author in your code.
 
 # Licensing.
 
-The individual licenses contained within this repository are licensed under their respecitve terms.
+The individual licenses contained within this repository are licensed under their respective terms.
 
 The index document contained at README.md is dual-licensed under:
 
 - the Creative Commons Attribution-ShareAlike 4.0 International License by its authors. The [license summary](https://creativecommons.org/licenses/by-sa/4.0/) and [the text of the license](https://creativecommons.org/licenses/by-sa/4.0/legalcode) are available on creativecommons.org.
-- [the Schrödinger License](./schrodinger-license.md)
+- [the Schrödinger License](./schrodinger-license.md) in its most recent incarnation.
