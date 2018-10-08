@@ -1,4 +1,4 @@
-The individual licenses contained within this repository are licensed under their respecitve terms.
+The individual licenses contained within this repository are licensed under their respective terms.
 
 The index document contained at README.md is dual-licensed under:
 
