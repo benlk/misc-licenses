@@ -25,6 +25,7 @@ May include joke licenses. In no particular order. Links not guaranteed to work.
 - [EXT JS License](http://www.exttld.com/index.php?content=terms): No animals may be harmed in any way bt the user, their employer, or the project.
 - [A music license](http://www.codeforge.com/read/126664/setdpi.h__html): Listen to the music.
 - [The Death and Repudiation License](https://github.com/indeyets/syck/blob/master/COPYING): No use by living persons allowed.
+- [The JSLint license exception (archived)](https://web.archive.org/web/20170722132351/http://dev.hasenj.org:80/post/3272592502/ibm-and-its-minions): IBM may be evil.
 - [The Alcohol license clause](http://club.myce.com/f59/strange-license-agreement-alcohol-writer-software-55692/): doesn't really have anything to do with alcohol.
 - [Solipsistic Public License](https://raw.githubusercontent.com/matildah/SPL/fb35894f14be41ffd78018ae150e9da1cf6d4a75/LICENSE)
 - [Tumbolia Public License](https://raw.githubusercontent.com/joshleaves/licenjs/4174e046c920acf066bfe9cd14d833210490c8b8/lib/template-tumbolia.txt)
@@ -32,7 +33,7 @@ May include joke licenses. In no particular order. Links not guaranteed to work.
 - [The "Do What The Fuck You Want To Public License" (WTFPL)](http://www.wtfpl.net)
 - [(Woody) Guthrie Public License](http://researchenterprise.org/2013/12/06/the-woody-guthrie-public-license/):
     - "Anyone found copying and distributing this book without permission will be considered a mighty good friend of ours, because we don’t give a durn."
-    - alt "Anybody caught forkin it without our permission, will be mighty good friends of ourn, cause we don't give a dern." (source gone with witches.town)
+    - [witches.town alteration (archived)](https://web.archive.org/web/20180407192134/https://witches.town/@ThatVeryQuinn/3540091): "Anybody caught forkin it without our permission, will be mighty good friends of ourn, cause we don't give a dern."
 - [Poblic License](https://awoo.space/@typhlosion/1434007): "modifications to this project must introduce a misspelling"
 - [Protestant Public License](https://awoo.space/@Felthry/1434032): "nailing the complete source code to the door of a church"
 - [Calvinball Public License](https://tootplanet.space/users/Terrana/updates/22613): Forked projects must have novel license terms.
@@ -46,6 +47,7 @@ May include joke licenses. In no particular order. Links not guaranteed to work.
 	- [Government Public License](https://computerfairi.es/users/boots/updates/25134): Sure, you can fork it, but there's bureaucracy involved.
 - [Polyglot Public License](https://awoo.space/@typhlosion/1433566): Gotta add a new language that the original project didn't use.
 - [Wiccan Rede](https://en.wikipedia.org/wiki/Wiccan_Rede): An it harm none, do what ye will.
+- [The Safety Circle License (archived)](https://web.archive.org/web/20180403083715/https://witches.town/@Ontploffing/3544280): Encircle your computer in salt.
 - [Offendo General Pain In The Ass License](https://awoo.space/@typhlosion/1433157): You must have a way for people to acquire your source, but it must be more difficult than the way you acquired the source.
 	- [Alternative Variable Chain Public License](https://icosahedron.website/users/shel/updates/76814): Anyone using this must use it for noncommercial, but forks may be used for commercial, but granchdhild forks cannot be commercial, etc.
 - [Poe's Law Public License](https://icosahedron.website/users/shel/updates/76825): Derivatives must be licensed using a joke license.
