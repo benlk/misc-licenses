@@ -52,6 +52,7 @@ May include joke licenses. In no particular order. Links not guaranteed to work.
 	- [Alternative Variable Chain Public License](https://icosahedron.website/users/shel/updates/76814): Anyone using this must use it for noncommercial, but forks may be used for commercial, but granchdhild forks cannot be commercial, etc.
 - [Poe's Law Public License](https://icosahedron.website/users/shel/updates/76825): Derivatives must be licensed using a joke license.
 - [Good Luck With That Public License](https://github.com/me-shaon/GLWTPL) is even better than DAMAIL; it requires leaving no trace of the original author in your code.
+- [The Free! License](https://web.archive.org/web/20190108025048/https://friend.camp/@darius/101377271044280643): Sporps animu.
 
 # Licensing
 
