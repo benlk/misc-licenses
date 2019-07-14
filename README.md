@@ -53,6 +53,7 @@ May include joke licenses. In no particular order. Links not guaranteed to work.
 - [Poe's Law Public License](https://icosahedron.website/users/shel/updates/76825): Derivatives must be licensed using a joke license.
 - [Good Luck With That Public License](https://github.com/me-shaon/GLWTPL) is even better than DAMAIL; it requires leaving no trace of the original author in your code.
 - [The Free! License](https://web.archive.org/web/20190108025048/https://friend.camp/@darius/101377271044280643): Sporps animu.
+- The Learning Only License: [license](https://github.com/dolson14/LOL/blob/master/LOL_LICENSE), [explanation](https://github.com/dolson14/LOL/blob/master/README.md).
 
 # Licensing
 
