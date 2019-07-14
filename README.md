@@ -30,7 +30,7 @@ May include joke licenses. In no particular order. Links not guaranteed to work.
 - [Solipsistic Public License](https://raw.githubusercontent.com/matildah/SPL/fb35894f14be41ffd78018ae150e9da1cf6d4a75/LICENSE)
 - [Tumbolia Public License](https://raw.githubusercontent.com/joshleaves/licenjs/4174e046c920acf066bfe9cd14d833210490c8b8/lib/template-tumbolia.txt)
 - [The "Don't Be a Dick" Public License (DBAD)](https://dbad-license.org/)
-- The "Do What The Fuck You Want To Public License" (WTFPL): [version 2](http://www.wtfpl.net/about/)
+- The "Do What The Fuck You Want To Public License" (WTFPL): [version 2](http://www.wtfpl.net/about/), [version 3](https://github.com/sirkris/WTFPL/blob/master/WTFPL.md).
 - [(Woody) Guthrie Public License](http://researchenterprise.org/2013/12/06/the-woody-guthrie-public-license/):
     - "Anyone found copying and distributing this book without permission will be considered a mighty good friend of ours, because we don’t give a durn."
     - [witches.town alteration (archived)](https://web.archive.org/web/20180407192134/https://witches.town/@ThatVeryQuinn/3540091): "Anybody caught forkin it without our permission, will be mighty good friends of ourn, cause we don't give a dern."
