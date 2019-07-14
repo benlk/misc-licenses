@@ -1,4 +1,4 @@
-# A collection of license
+# Licenses in this repo
 
 The canonical URL for this collection of licenses is https://github.com/benlk/misc-licenses
 
