@@ -16,6 +16,8 @@ The canonical URL for this collection of licenses is https://github.com/benlk/mi
 
 May include joke licenses. In no particular order. Links not guaranteed to work.
 
+Neatness is a hard-to-define quality; the criteria for acceptance here is at least one of: 1) I thought it funny or interesting, 2) someone made a pull request adding it 3) other criteria not listed here.
+
 - [Artistic License](https://en.wikipedia.org/wiki/Artistic_License): A serious license, not copyleft, kinda like CC-BY
 - [The JSON.org license](http://www.json.org/license.html): May not be used for evil.
 - [Beerware license](https://en.wikipedia.org/wiki/Beerware#License): Buy the publisher a drink.
