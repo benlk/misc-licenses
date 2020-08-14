@@ -36,21 +36,22 @@ Neatness is a hard-to-define quality; the criteria for acceptance here is at lea
 - [(Woody) Guthrie Public License](http://researchenterprise.org/2013/12/06/the-woody-guthrie-public-license/):
     - "Anyone found copying and distributing this book without permission will be considered a mighty good friend of ours, because we don’t give a durn."
     - [witches.town alteration (archived)](https://web.archive.org/web/20180407192134/https://witches.town/@ThatVeryQuinn/3540091): "Anybody caught forkin it without our permission, will be mighty good friends of ourn, cause we don't give a dern."
-- [Poblic License](https://awoo.space/@typhlosion/1434007): "modifications to this project must introduce a misspelling"
-- [Protestant Public License](https://awoo.space/@Felthry/1434032): "nailing the complete source code to the door of a church"
+- [Poblic License](https://web.archive.org/web/20200814145910/https://awoo.space/@typhlosion/1434007): "modifications to this project must introduce a misspelling"
+- [Protestant Public License](https://web.archive.org/web/20200814150232if_/https://awoo.space/@Felthry/1434032): modifications must be published by nailing the complete source code to the door of a church, without permission
 - [Calvinball Public License](https://tootplanet.space/users/Terrana/updates/22613): Forked projects must have novel license terms.
-- [Decaying Public License](https://awoo.space/@typhlosion/1433889): Derivative copies must have increasingly-restrictive licenses.
-- [Linguistic Public License](https://awoo.space/@Felthry/1433846): Modified software must be in a different programming language, and comments must be translated to a new human language.
-- [Halffero GPL v2](https://awoo.space/@typhlosion/1433863): Forks must make acccessible a minimum of half their total changes to the source, in terms of non-comment non-insignificant-whitespace characters of code.
-- [Please Public License](https://awoo.space/@typhlosion/1433790): you must ask to modify the software, and you must approve such requests from people who seek to modify it.
-- [Retroware License](https://awoo.space/@typhlosion/1433742): Distribution prohibited except on a whitelisted type of hardware available before 2005.
-- [Incremental Public License](https://awoo.space/@typhlosion/1433666): Forks may only modify the license by one word.
-- [Scholastic Public License](https://awoo.space/@typhlosion/1433614): Intent to modify must be publicly declared by keeping a daily journal of learning the software before modifying.
-	- [Government Public License](https://computerfairi.es/users/boots/updates/25134): Sure, you can fork it, but there's bureaucracy involved.
-- [Polyglot Public License](https://awoo.space/@typhlosion/1433566): Gotta add a new language that the original project didn't use.
+- [Decaying Public License](https://web.archive.org/save/https://awoo.space/@typhlosion/1433889): Derivative copies must have increasingly-restrictive licenses.
+	- On the same page, the Increasingly Public License, which starts at a free license like GPL or Creative Commons, but each modification must be licensed under a more-public license, eventually arriving at a public-domain license.
+- [Linguistic Public License](https://web.archive.org/web/20200814150901if_/https://awoo.space/@Felthry/1433846): Modified software must be in a different programming language, and comments must be translated to a new human language.
+- [Halffero GPL v2](https://web.archive.org/web/20200814150935if_/https://awoo.space/@typhlosion/1433863): Forks must make acccessible a minimum of half their total changes to the source, in terms of non-comment non-insignificant-whitespace characters of code.
+- [Please Public License](https://web.archive.org/web/20200814151216if_/https://awoo.space/@typhlosion/1433790): you must ask to modify the software, and you must approve such requests from people who seek to modify it.
+- [Retroware License](https://web.archive.org/web/20200814151934if_/https://awoo.space/@typhlosion/1433742): Distribution prohibited except on a whitelisted type of hardware available before 2005.
+- [Incremental Public License](https://web.archive.org/web/20200814152114if_/https://awoo.space/@typhlosion/1433666): Forks may only modify the license by one word.
+- [Scholastic Public License](https://web.archive.org/web/20200814152142if_/https://awoo.space/@typhlosion/1433614): Intent to modify must be publicly declared by keeping a daily journal of learning the software before modifying.
+	- [Government Public License](https://computerfairi.es/@boots/843765): Sure, you can fork it, but there's bureaucracy involved.
+- [Polyglot Public License](https://web.archive.org/web/20200814152249if_/https://awoo.space/@typhlosion/1433566): Gotta add a new language that the original project didn't use.
 - [Wiccan Rede](https://en.wikipedia.org/wiki/Wiccan_Rede): An it harm none, do what ye will.
 - [The Safety Circle License (archived)](https://web.archive.org/web/20180403083715/https://witches.town/@Ontploffing/3544280): Encircle your computer in salt.
-- [Offendo General Pain In The Ass License](https://awoo.space/@typhlosion/1433157): You must have a way for people to acquire your source, but it must be more difficult than the way you acquired the source.
+- [Offendo General Pain In The Ass License](https://web.archive.org/web/20200814152319if_/https://awoo.space/@typhlosion/1433157): You must have a way for people to acquire your source, but it must be more difficult than the way you acquired the source.
 	- [Alternative Variable Chain Public License](https://icosahedron.website/users/shel/updates/76814): Anyone using this must use it for noncommercial, but forks may be used for commercial, but granchdhild forks cannot be commercial, etc.
 - [Poe's Law Public License](https://icosahedron.website/users/shel/updates/76825): Derivatives must be licensed using a joke license.
 - [Good Luck With That Public License](https://github.com/me-shaon/GLWTPL) is even better than DAMAIL; it requires leaving no trace of the original author in your code.
