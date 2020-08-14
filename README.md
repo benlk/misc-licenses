@@ -56,6 +56,10 @@ Neatness is a hard-to-define quality; the criteria for acceptance here is at lea
 - [Good Luck With That Public License](https://github.com/me-shaon/GLWTPL) is even better than DAMAIL; it requires leaving no trace of the original author in your code.
 - [The Free! License](https://web.archive.org/web/20190108025048/https://friend.camp/@darius/101377271044280643): Sporps animu.
 - The Learning Only License: [license](https://github.com/dolson14/LOL/blob/master/LOL_LICENSE), [explanation](https://github.com/dolson14/LOL/blob/master/README.md).
+- The License Zero organization's stable of licenses, designed to facilitate public-private dual licensing:
+	- The [Parity License](https://paritylicense.com/): changes must be contributed back to the public, unless your changes are prototypes, but it's otherwise free.
+	- The [Prosperity License](https://prosperitylicense.com/): free except for commercial use, in which case there's a 30-day free trial.
+	- The [Private License](https://licensezero.com/licenses/private): a boilerplate license for commercial use not allowed by the Parity or Prosperity licenses, supported by License Zero's [licensing service](https://guide.licensezero.com/).
 
 # Licensing
 
