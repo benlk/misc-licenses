@@ -17,8 +17,16 @@ For amusement purposes only, refer to http://uncyclopedia.wikia.com/wiki/Copyrig
 
 1. The licensed work may not be used by GNU RMS or his descendants.
 
-2. Modified versions of the licensed work may be used without restrictions (CopyDown).
+2. Modified versions of the licensed work may be used without restrictions, follwing CopyDown practices.
 
 ## Exceptions
 
 1. None.
+
+## Non-binding Notes
+
+The following notes are meant to provide context to the license, and should not be used when interpreting the text of the license.
+
+- This license does not comply with the [Debian Free Software Guidelines](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines): it discriminates against a person.
+- This originated as a joke license, but that doesn't mean you can't use it as an actual license.
+- This can be used as an actual license, but that doesn't mean you should use it as one.
