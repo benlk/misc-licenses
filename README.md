@@ -62,6 +62,7 @@ Neatness is a hard-to-define quality; the criteria for acceptance here is at lea
 	- The [Parity License](https://paritylicense.com/): changes must be contributed back to the public, unless your changes are prototypes, but it's otherwise free.
 	- The [Prosperity License](https://prosperitylicense.com/): free except for commercial use, in which case there's a 30-day free trial.
 	- The [Private License](https://licensezero.com/licenses/private): a boilerplate license for commercial use not allowed by the Parity or Prosperity licenses, supported by License Zero's [licensing service](https://guide.licensezero.com/).
+- The [Cookie Ware License](https://github.com/c00kiemon5ter/Pancakes) for all locves of cookies.
 
 # Licensing
 
