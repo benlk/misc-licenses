@@ -63,6 +63,7 @@ Neatness is a hard-to-define quality; the criteria for acceptance here is at lea
 	- The [Prosperity License](https://prosperitylicense.com/): free except for commercial use, in which case there's a 30-day free trial.
 	- The [Private License](https://licensezero.com/licenses/private): a boilerplate license for commercial use not allowed by the Parity or Prosperity licenses, supported by License Zero's [licensing service](https://guide.licensezero.com/).
 - The [Cookie Ware License](https://github.com/c00kiemon5ter/Pancakes) for all lovers of cookies.
+- The [Why The Fuck Would You Even Do That Holy Shit Public License](https://git.sr.ht/~boringcactus/gotbruh/tree/main/item/LICENSE.md): a license that prohibits rewriting the software in Python 2.
 
 # Licensing
 
