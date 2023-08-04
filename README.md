@@ -22,7 +22,8 @@ Neatness is a hard-to-define quality; the criteria for acceptance here is at lea
 - [The JSON.org license](http://www.json.org/license.html): MIT/BSD/X11 but with "May not be used for evil."
 	- Melody Horn's [the fuck around and find out license v0.1](https://web.archive.org/web/20200814035954/https://paste.sr.ht/~boringcactus/ed023ccf9d7a5559612d6e60f0474d6c3375349d), which is less-ambiguous: "the software shall be used for Good, not Evil. the original author of the software retains the sole and exclusive right to determine which uses are Good and which uses are Evil." (via hir [boringcactus post about what comes after open source](https://web.archive.org/web/20200814035918/https://www.boringcactus.com/2020/08/13/post-open-source.html))
 - [Beerware license](https://en.wikipedia.org/wiki/Beerware#License): Buy the publisher a drink.
-- [Don't Ask Me About It License](https://github.com/nslater/DAMAIL): Don't contact the author.
+- [Don't Ask Me About It License](https://github.com/nslater/DAMAIL) ([archive](https://web.archive.org/web/20181012175914/https://github.com/nslater/DAMAIL)): Don't contact the author.
+	- live GitHub clone: https://github.com/myano/DAMAIL
 - [The Chicken Dance License v 0.2](https://github.com/supertunaman/cdl/blob/master/COPYING): Distribute the source code with derivative projects.
 - [No problem bugroff license](http://tunes.org/legalese/bugroff.html): Very permissive.
 - [EXT JS License](http://www.exttld.com/index.php?content=terms): No animals may be harmed in any way bt the user, their employer, or the project.
