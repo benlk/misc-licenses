@@ -68,6 +68,7 @@ Neatness is a hard-to-define quality; the criteria for acceptance here is at lea
 - The [Happy Bunny Licence](https://glm.g-truc.net/copying.txt): Modified MIT License, where "by making use of the Software for military purposes, you choose to make a Bunny unhappy."
 - The [Potion Seller Public License](https://web.archive.org/web/20240220160614/https://cohost.org/xenofem/post/4509123-div-style-color-v): "I CAN'T GIVE YOU MY STRONGEST SOFTWARE, BECAUSE MY STRONGEST SOFTWARE IS ONLY FOR THE STRONGEST BEINGS, AND YOU ARE OF THE WEAKEST."
 - The [Good Luck With That Shit Public License](https://web.archive.org/web/20240222014903/https://github.com/Speykious/cve-rs/blob/main/LICENSE), which is quite similar to the WTFPL, but with the addition of the licensor's disclaiming knowledge of the licensed work's contents.
+- The [friends and lovers license](https://github.com/outofambit/friends-and-lovers-license): what if code i wrote was only for the people i love?
 
 # Licensing
 
