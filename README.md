@@ -71,6 +71,7 @@ Neatness is a hard-to-define quality; the criteria for acceptance here is at lea
 - The [friends and lovers license](https://github.com/outofambit/friends-and-lovers-license): what if code i wrote was only for the people i love?
 - The [Gay Agenda License](https://web.archive.org/web/20240603162750/https://git.sr.ht/~ntietz/lilac-lang/tree/main/item/LICENSE/GAL-1.0): Modified MIT, with revocation if the grantee supports restricting the rights of LGBTQ+ people or fails to say "be gay, do crime" while using the software.
 - [Non-AI Licenses](https://github.com/non-ai-licenses/non-ai-licenses): Modified BSD, MIT, CC0 and other licenses that prohibit use for AI training.
+- [The "Fuck You Pay Me" (FYPM) license](https://github.com/searls/fypm): Access granted to view the source, and nothing else.
 
 # Licensing
 
